@@ -1,0 +1,2 @@
+# djangoFirst
+exploration of django
